@@ -1,4 +1,4 @@
-Projeto Lista de Tarefas
+**<H12>Projeto Lista de Tarefas</H12>**
 
 Uma aplicação em Python para gerenciar tarefas diárias diretamente pelo terminal.
 

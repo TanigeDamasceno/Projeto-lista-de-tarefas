@@ -1,4 +1,4 @@
-**Projeto Lista de Tarefas**
+**<h6>Projeto Lista de Tarefas</h6>**
 
 Uma aplicação em Python para gerenciar tarefas diárias diretamente pelo terminal.
 

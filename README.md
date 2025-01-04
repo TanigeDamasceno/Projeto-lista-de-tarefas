@@ -1,9 +1,9 @@
-#**Projeto Lista de Tarefas**#
+**Projeto Lista de Tarefas**
 
 Uma aplicação em Python para gerenciar tarefas diárias diretamente pelo terminal.
 
 
-##**Descrição**##
+**Descrição**
 
 Este projeto é uma aplicação simples de linha de comando que permite aos usuários criar, visualizar, editar e excluir tarefas. 
 O objetivo é facilitar o gerenciamento de atividades diárias de forma prática e eficiente.
